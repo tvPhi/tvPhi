@@ -1,11 +1,15 @@
-### Hi there 👋
+# Hi there, I'm tvPhi! 👋
 
-- 🔭 I’m currently working on my computer.
-- 🌱 I’m currently learning anything
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub profile! I'm passionate about software development and love to work on projects that make a difference. Here's a little bit about me:
 
+## About Me
+
+- 🌱 I’m currently learning ML.
+- 🤔 I’m looking for help with anything you are stuck on.
+- 💬 Ask me about programming.
+
+## My Skills
+
+- **Languages:** Python, JavaScript, Java, C#, PHP, Typescript, ...
+
+Thanks for visiting my profile!
